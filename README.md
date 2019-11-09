@@ -18,3 +18,8 @@ iface enp0s8 inet static
 address 192.168.57.10
 netmask 255.255.255.0
 ```
+
+- ubuntu 네트워크 재시작
+```
+$) /etc/init.d/networking restart
+```
