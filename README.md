@@ -35,3 +35,8 @@ $) /etc/init.d/networking restart
 - https://bitcoincore.org/bin/bitcoin-core-0.15.2/ 클릭
 - ~ linux-gnu.tar.gz 파일 다운로드
 ```
+
+- bitcoin download using curl
+```
+$) curl -O https://bitcoincore.org/bin/bitcoin-core-0.15.2/bitcoin-0.15.2-x86_64-linux-gnu.tar.gz
+```
