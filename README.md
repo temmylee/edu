@@ -48,4 +48,5 @@ $) curl -O https://bitcoincore.org/bin/bitcoin-core-0.15.2/bitcoin-0.15.2-x86_64
 $) cd ~
 $) mkdir blockchain_edu1
 $) cd blockchain_edu1
+$) curl -O https://bitcoincore.org/bin/bitcoin-core-0.15.2/bitcoin-0.15.2-x86_64-linux-gnu.tar.gz
 ```
