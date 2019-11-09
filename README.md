@@ -40,3 +40,12 @@ $) /etc/init.d/networking restart
 ```
 $) curl -O https://bitcoincore.org/bin/bitcoin-core-0.15.2/bitcoin-0.15.2-x86_64-linux-gnu.tar.gz
 ```
+
+
+## 비트코인 다운받기
+- 타겟 디렉토리 만들기
+```
+$) cd ~
+$) mkdir blockchain_edu1
+$) cd blockchain_edu1
+```
